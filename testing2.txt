@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 This is commit is fine ---> for testing git rever
 
-This commit is not fine---> bug, issue
+
 
 
 
 Added another fine commit
+
+
+This is commit is fine ---> for testing git revert
 
