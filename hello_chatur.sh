@@ -17,3 +17,5 @@ echo "rancho : ye le bana diya"
 echo "farhan : virus ne beizati kardi"
 
 echo "abba nhi manege" > farhanitrate.txt
+
+echo "this is fine"
